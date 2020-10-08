@@ -16,6 +16,8 @@ public class PrintNames {
 		System.out.println("Jade Harbert");
 		System.out.println("Jimmy Malkowski");
 		System.out.println("Alter Ego");
+		
+		System.out.println("Joe Muzzin");
 
 
 	}
